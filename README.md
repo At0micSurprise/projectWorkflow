@@ -11,6 +11,8 @@ MEAN.JS is a full-stack JavaScript open-source solution, which provides a solid 
 
 kyle schneider was here
 
+he was also here
+
 
 ## Before You Begin
 Before you begin we recommend you read about the basic building blocks that assemble a MEAN.JS application:
